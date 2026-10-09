@@ -20,7 +20,57 @@ The portfolio includes a hero section, About, Technical Skills, Projects & Pract
 4. Select the `main` branch and the `/(root)` folder, then click **Save**.
 5. Wait for GitHub Pages to publish the site. The published URL will be shown in the Pages settings.
 
-## Links
+## Workflow
 
-- Live website: [annapurna1912.github.io/task-5-github-pages](https://annapurna1912.github.io/task-5-github-pages/)
-- Repository: [Annapurna1912/task-5-github-pages](https://github.com/Annapurna1912/task-5-github-pages)
+1. Developed the portfolio website using HTML and CSS in VS Code.
+2. Tested the website locally in a browser.
+3. Used Git for version control.
+4. Pushed the project files to the GitHub repository.
+5. Deployed the static website using GitHub Pages.
+6. Verified the live portfolio website.
+
+### Workflow Diagram
+
+```text
+VS Code (HTML + CSS)
+         |
+         v
+ Local Browser Testing
+         |
+         v
+   Git Add and Commit
+         |
+         v
+    GitHub Repository
+         |
+         v
+     GitHub Pages
+         |
+         v
+    Live Portfolio
+```
+
+## Project Screenshots
+
+### 1. Portfolio Website
+![Portfolio Home](screenshots/Portfolio%20home.png)
+
+### 2. GitHub Repository
+![GitHub Repository](screenshots/git-repo.png)
+
+### 3. GitHub Pages Deployment
+![GitHub Pages Deployment](screenshots/github-pages.png)
+
+### 4. HTML Code
+![HTML Code](screenshots/Index.html.png)
+
+### 5. CSS Code
+![CSS Code](screenshots/Style.css.png)
+
+### 6. README Preview
+![README Preview](screenshots/Readme.png)
+
+## Project Links
+
+- **Live Website:** https://annapurna1912.github.io/task-5-github-pages/
+- **GitHub Repository:** https://github.com/Annapurna1912/task-5-github-pages
