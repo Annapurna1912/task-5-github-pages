@@ -52,23 +52,23 @@ VS Code (HTML + CSS)
 
 ## Project Screenshots
 
-### 1. Portfolio Website
-![Portfolio Home](screenshots/Portfolio%20home.png)
+### GitHub Repository
+![GitHub Repository](screenshots/git-repo.png.png)
 
-### 2. GitHub Repository
-![GitHub Repository](screenshots/git-repo.png)
+### GitHub Pages Deployment
+![GitHub Pages](screenshots/github-pages.png.png)
 
-### 3. GitHub Pages Deployment
-![GitHub Pages Deployment](screenshots/github-pages.png)
+### Portfolio Website
+![Portfolio Home](screenshots/Portfolio%20home.png.png)
 
-### 4. HTML Code
-![HTML Code](screenshots/Index.html.png)
+### HTML Code
+![HTML Code](screenshots/Index.html.png.png)
 
-### 5. CSS Code
-![CSS Code](screenshots/Style.css.png)
+### CSS Code
+![CSS Code](screenshots/Style.css.png.png)
 
-### 6. README Preview
-![README Preview](screenshots/Readme.png)
+### README Preview
+![README Preview](screenshots/Readme.png.png)
 
 ## Project Links
 
